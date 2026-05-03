@@ -2,6 +2,14 @@
 
 A simple full-stack web app where students can connect with alumni, send networking requests, and explore opportunities shared by alumni.
 
+
+## Contributors:
+
+Umesh Kumar
+Riya Garjola
+Priyanshu Birkhani
+Yogesh Pandey
+
 ## Tech Stack
 
 - Frontend: HTML, CSS, Vanilla JavaScript
