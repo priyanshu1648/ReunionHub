@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Edit Profile | Alumni Connect</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body data-page="edit-profile">
+    <nav id="navbar"></nav>
+
+    <main class="container section">
+      <div class="page-actions">
+        <a class="btn btn-secondary" href="./dashboard.html">Back to Dashboard</a>
+      </div>
+
+      <section class="auth-card wide-card">
+        <p class="eyebrow">Profile Settings</p>
+        <h1>Edit Your Profile</h1>
+        <p class="muted-text">
+          Keep your profile updated so students and alumni can connect with you more easily.
+        </p>
+
+        <form id="editProfileForm" class="form">
+          <label>
+            Full Name
+            <input type="text" id="name" required />
+          </label>
+          <label>
+            Email
+            <input type="email" id="email" disabled />
+          </label>
+          <label>
+            Role
+            <input type="text" id="role" disabled />
+          </label>
+          <label>
+            Course / Branch
+            <input type="text" id="course" />
+          </label>
+          <label>
+            College / School Name
+            <input type="text" id="institution" />
+          </label>
+          <label>
+            Company / Organization
+            <input type="text" id="company" />
+          </label>
+          <label>
+            Graduation Year
+            <input type="text" id="graduationYear" />
+          </label>
+          <label>
+            Location
+            <input type="text" id="location" />
+          </label>
+          <label>
+            Short Bio
+            <textarea id="bio" rows="5"></textarea>
+          </label>
+          <button class="btn btn-primary" type="submit">Save Changes</button>
+          <p id="message" class="form-message"></p>
+        </form>
+      </section>
+    </main>
+
+    <script src="./js/config.js"></script>
+    <script src="./js/common.js"></script>
+    <script src="./js/edit-profile.js"></script>
+  </body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Network | Alumni Connect</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body data-page="network">
+    <nav id="navbar"></nav>
+
+    <main class="container section">
+      <section class="section-heading stack-mobile">
+        <div>
+          <p class="eyebrow">My Network</p>
+          <h1 id="networkPageTitle">Your Connections</h1>
+          <p id="networkPageSubtitle" class="muted-text"></p>
+        </div>
+        <div class="search-box">
+          <input
+            id="networkSearchInput"
+            type="text"
+            placeholder="Search by name, company, course, institution, or location"
+          />
+        </div>
+      </section>
+
+      <div id="networkPageNotice" class="notice hidden"></div>
+      <section id="networkPageContainer" class="job-grid"></section>
+      <p id="networkPageMessage" class="empty-state hidden"></p>
+    </main>
+
+    <script src="./js/config.js"></script>
+    <script src="./js/common.js"></script>
+    <script src="./js/network.js"></script>
+  </body>
+</html>

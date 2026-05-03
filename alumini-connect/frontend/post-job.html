@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Post Job | Alumni Connect</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body data-page="post-job">
+    <nav id="navbar"></nav>
+
+    <main class="container section">
+      <section class="auth-card wide-card">
+        <h1>Post a Job or Internship</h1>
+        <p class="muted-text">
+          Share an opportunity so students can connect with you through the portal.
+        </p>
+        <p id="accessMessage" class="notice hidden"></p>
+        <form id="jobForm" class="form">
+          <label>
+            Job Title
+            <input type="text" id="title" placeholder="Frontend Intern" required />
+          </label>
+          <label>
+            Company
+            <input type="text" id="company" placeholder="ABC Technologies" required />
+          </label>
+          <label>
+            Location
+            <input type="text" id="location" placeholder="Bengaluru / Remote" required />
+          </label>
+          <label>
+            Description
+            <textarea
+              id="description"
+              rows="5"
+              placeholder="Share key responsibilities and requirements"
+              required
+            ></textarea>
+          </label>
+          <label>
+            Contact Info
+            <input
+              type="text"
+              id="contactInfo"
+              placeholder="Email or phone number for applications"
+              required
+            />
+          </label>
+          <button class="btn btn-primary" type="submit">Publish Opportunity</button>
+          <p id="message" class="form-message"></p>
+        </form>
+      </section>
+    </main>
+
+    <script src="./js/config.js"></script>
+    <script src="./js/common.js"></script>
+    <script src="./js/post-job.js"></script>
+  </body>
+</html>

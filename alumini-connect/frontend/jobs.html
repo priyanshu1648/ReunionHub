@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Opportunities | Alumni Connect</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body data-page="jobs">
+    <nav id="navbar"></nav>
+
+    <main class="container section">
+      <section class="section-heading stack-mobile">
+        <div>
+          <p class="eyebrow">Opportunities</p>
+          <h1>Opportunities from Alumni</h1>
+          <p class="muted-text">Explore jobs and internships shared by alumni after finding the right people to connect with.</p>
+        </div>
+        <div class="search-box">
+          <input
+            id="searchInput"
+            type="text"
+            placeholder="Search by title, company, or location"
+          />
+        </div>
+      </section>
+
+      <section id="jobsContainer" class="job-grid"></section>
+      <p id="jobsMessage" class="empty-state hidden"></p>
+    </main>
+
+    <script src="./js/config.js"></script>
+    <script src="./js/common.js"></script>
+    <script src="./js/jobs.js"></script>
+  </body>
+</html>

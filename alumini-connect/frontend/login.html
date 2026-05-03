@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login | Alumni Connect</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body data-page="login">
+    <nav id="navbar"></nav>
+
+    <main class="container section">
+      <section class="auth-card">
+        <h1>Login</h1>
+        <p>Access your dashboard to explore or post opportunities.</p>
+        <form id="loginForm" class="form">
+          <label>
+            Email
+            <input type="email" id="email" placeholder="Enter your email" required />
+          </label>
+          <label>
+            Password
+            <input
+              type="password"
+              id="password"
+              placeholder="Enter your password"
+              required
+            />
+          </label>
+          <button class="btn btn-primary" type="submit">Login</button>
+          <p class="form-link">
+            New here? <a href="./register.html">Create an account</a>
+          </p>
+          <p id="message" class="form-message"></p>
+        </form>
+      </section>
+    </main>
+
+    <script src="./js/config.js"></script>
+    <script src="./js/common.js"></script>
+    <script src="./js/login.js"></script>
+  </body>
+</html>

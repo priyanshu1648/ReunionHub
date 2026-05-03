@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard | Alumni Connect</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body data-page="dashboard">
+    <nav id="navbar"></nav>
+
+    <main class="container section">
+      <section class="dashboard-header">
+        <div>
+          <p class="eyebrow">Dashboard</p>
+          <h1 id="dashboardTitle">Welcome</h1>
+          <p id="dashboardSubtitle" class="muted-text"></p>
+        </div>
+        <a class="btn btn-secondary" href="./jobs.html">View Jobs</a>
+      </section>
+
+      <section class="profile-card">
+        <div class="section-heading">
+          <h2>Your Profile</h2>
+          <a class="btn btn-secondary" href="./edit-profile.html">Edit Profile</a>
+        </div>
+        <div id="profileInfo" class="profile-grid"></div>
+      </section>
+
+      <section>
+        <div class="section-heading">
+          <h2 id="connectionSectionTitle">Connections</h2>
+          <a id="browseAlumniLink" class="btn btn-secondary hidden" href="./alumni.html">
+            Browse Alumni
+          </a>
+        </div>
+        <div id="connectionNotice" class="notice hidden"></div>
+        <div id="connectionRequests" class="job-grid"></div>
+      </section>
+
+      <section>
+        <div class="section-heading">
+          <h2 id="networkSectionTitle">My Network</h2>
+          <a class="btn btn-secondary" href="./network.html">View Full Network</a>
+        </div>
+        <div id="networkNotice" class="notice hidden"></div>
+        <div id="networkContainer" class="job-grid"></div>
+      </section>
+
+      <section>
+        <div class="section-heading">
+          <h2 id="jobSectionTitle">Jobs</h2>
+          <a id="postJobLink" class="btn btn-primary hidden" href="./post-job.html">
+            Post a Job
+          </a>
+        </div>
+        <div id="dashboardNotice" class="notice hidden"></div>
+        <div id="dashboardJobs" class="job-grid"></div>
+      </section>
+    </main>
+
+    <script src="./js/config.js"></script>
+    <script src="./js/common.js"></script>
+    <script src="./js/dashboard.js"></script>
+  </body>
+</html>

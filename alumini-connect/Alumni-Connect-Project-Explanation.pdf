@@ -1,0 +1,850 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 3739 >>
+stream
+BT
+/F1 12 Tf
+/F1 16 Tf
+1 0 0 1 50 790 Tm
+(Alumni Connect Portal Project Explanation) Tj
+/F1 12 Tf
+1 0 0 1 50 774 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 758 Tm
+(Project Overview) Tj
+/F1 12 Tf
+1 0 0 1 50 742 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 726 Tm
+(Your project is an Alumni Connect Portal. Its main purpose is to connect students with) Tj
+/F1 12 Tf
+1 0 0 1 50 710 Tm
+(alumni of the same institution so students can get guidance, build professional networks,) Tj
+/F1 12 Tf
+1 0 0 1 50 694 Tm
+(and discover job opportunities shared by alumni.) Tj
+/F1 12 Tf
+1 0 0 1 50 678 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 662 Tm
+(In simple words, this project solves a real college problem:) Tj
+/F1 12 Tf
+1 0 0 1 50 646 Tm
+(- Students often do not know how to reach alumni.) Tj
+/F1 12 Tf
+1 0 0 1 50 630 Tm
+(- Alumni want to help, but there is no simple platform.) Tj
+/F1 12 Tf
+1 0 0 1 50 614 Tm
+(- Opportunities and guidance stay scattered in WhatsApp groups or personal contacts.) Tj
+/F1 12 Tf
+1 0 0 1 50 598 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 582 Tm
+(So your platform creates one place where:) Tj
+/F1 12 Tf
+1 0 0 1 50 566 Tm
+(- Students can register and search alumni.) Tj
+/F1 12 Tf
+1 0 0 1 50 550 Tm
+(- Students can send connection requests.) Tj
+/F1 12 Tf
+1 0 0 1 50 534 Tm
+(- Alumni can accept or decline requests.) Tj
+/F1 12 Tf
+1 0 0 1 50 518 Tm
+(- Alumni can post job opportunities.) Tj
+/F1 12 Tf
+1 0 0 1 50 502 Tm
+(- Both can chat after a connection is accepted.) Tj
+/F1 12 Tf
+1 0 0 1 50 486 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 470 Tm
+(How To Explain It To Your Teacher) Tj
+/F1 12 Tf
+1 0 0 1 50 454 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 438 Tm
+(You can explain it like this:) Tj
+/F1 12 Tf
+1 0 0 1 50 422 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 406 Tm
+(My project is a full-stack web application called Alumni Connect Portal. It is designed to) Tj
+/F1 12 Tf
+1 0 0 1 50 390 Tm
+(bridge the gap between current students and alumni. In this system, users can register) Tj
+/F1 12 Tf
+1 0 0 1 50 374 Tm
+(either as a student or as an alumni. Students can browse alumni profiles, search by name,) Tj
+/F1 12 Tf
+1 0 0 1 50 358 Tm
+(company, location, course, or institution, and send connection requests with a message.) Tj
+/F1 12 Tf
+1 0 0 1 50 342 Tm
+(Alumni can receive these requests, accept or decline them, and also post job opportunities.) Tj
+/F1 12 Tf
+1 0 0 1 50 326 Tm
+(Once a connection request is accepted, both users can chat inside the portal.) Tj
+/F1 12 Tf
+1 0 0 1 50 310 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 294 Tm
+(Technically, I built the frontend using HTML, CSS, and Vanilla JavaScript. The backend is) Tj
+/F1 12 Tf
+1 0 0 1 50 278 Tm
+(built using Node.js and Express.js. MongoDB is used as the database, and Mongoose is used) Tj
+/F1 12 Tf
+1 0 0 1 50 262 Tm
+(for schema modeling. For authentication and authorization, I used JWT. Passwords are hashed) Tj
+/F1 12 Tf
+1 0 0 1 50 246 Tm
+(using bcrypt before storing them in the database.) Tj
+/F1 12 Tf
+1 0 0 1 50 230 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 214 Tm
+(The project has role-based access control. For example, only alumni can post jobs, and only) Tj
+/F1 12 Tf
+1 0 0 1 50 198 Tm
+(students can send connection requests. This makes the platform secure and role-specific.) Tj
+/F1 12 Tf
+1 0 0 1 50 182 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 166 Tm
+(Overall, the system helps students get mentorship, networking support, and job opportunities) Tj
+/F1 12 Tf
+1 0 0 1 50 150 Tm
+(from alumni in an organized way.) Tj
+/F1 12 Tf
+1 0 0 1 50 134 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 118 Tm
+(Best Order To Present) Tj
+/F1 12 Tf
+1 0 0 1 50 102 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 86 Tm
+(1. Problem statement: Students and alumni do not have a structured platform to connect.) Tj
+/F1 12 Tf
+1 0 0 1 50 70 Tm
+(2. Objective: To create a portal for networking, mentorship, and job sharing.) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Length 3774 >>
+stream
+BT
+/F1 12 Tf
+/F1 12 Tf
+1 0 0 1 50 790 Tm
+(3. Users: Two types, student and alumni.) Tj
+/F1 12 Tf
+1 0 0 1 50 774 Tm
+(4. Main features: Registration, login, profile management, alumni browsing, connection) Tj
+/F1 12 Tf
+1 0 0 1 50 758 Tm
+(requests, job posting, network view, and chat.) Tj
+/F1 12 Tf
+1 0 0 1 50 742 Tm
+(5. Tech stack: HTML, CSS, JavaScript, Node.js, Express, MongoDB, Mongoose, JWT, bcrypt.) Tj
+/F1 12 Tf
+1 0 0 1 50 726 Tm
+(6. Working flow: Register, login, browse alumni and jobs, send request, accept request,) Tj
+/F1 12 Tf
+1 0 0 1 50 710 Tm
+(chat.) Tj
+/F1 12 Tf
+1 0 0 1 50 694 Tm
+(7. Security: JWT auth, password hashing, protected routes, role-based middleware.) Tj
+/F1 12 Tf
+1 0 0 1 50 678 Tm
+(8. Conclusion: This project digitizes alumni-student interaction and makes career support) Tj
+/F1 12 Tf
+1 0 0 1 50 662 Tm
+(easier.) Tj
+/F1 12 Tf
+1 0 0 1 50 646 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 630 Tm
+(Main Modules In Your Project) Tj
+/F1 12 Tf
+1 0 0 1 50 614 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 598 Tm
+(- Authentication module: Register, login, JWT token generation, protected profile access.) Tj
+/F1 12 Tf
+1 0 0 1 50 582 Tm
+(- User and profile module: Alumni and student profiles with name, course, institution,) Tj
+/F1 12 Tf
+1 0 0 1 50 566 Tm
+(   company, location, bio, and graduation year.) Tj
+/F1 12 Tf
+1 0 0 1 50 550 Tm
+(- Alumni directory: Students can search alumni and filter by institution.) Tj
+/F1 12 Tf
+1 0 0 1 50 534 Tm
+(- Connection request module: Students send requests, alumni receive them, alumni accept or) Tj
+/F1 12 Tf
+1 0 0 1 50 518 Tm
+(   decline them.) Tj
+/F1 12 Tf
+1 0 0 1 50 502 Tm
+(- Network module: Accepted connections become part of the user network.) Tj
+/F1 12 Tf
+1 0 0 1 50 486 Tm
+(- Job module: Alumni can post jobs, and students can browse and view job details.) Tj
+/F1 12 Tf
+1 0 0 1 50 470 Tm
+(- Messaging module: Chat is available only for accepted connections.) Tj
+/F1 12 Tf
+1 0 0 1 50 454 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 438 Tm
+(Technical Architecture) Tj
+/F1 12 Tf
+1 0 0 1 50 422 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 406 Tm
+(- Frontend: Static pages such as index, login, register, dashboard, alumni, jobs, and chat) Tj
+/F1 12 Tf
+1 0 0 1 50 390 Tm
+(   pages.) Tj
+/F1 12 Tf
+1 0 0 1 50 374 Tm
+(- Frontend logic: Vanilla JavaScript handles API calls, authentication storage, rendering,) Tj
+/F1 12 Tf
+1 0 0 1 50 358 Tm
+(   and interactions.) Tj
+/F1 12 Tf
+1 0 0 1 50 342 Tm
+(- Backend: Express server with routes, controllers, middleware, and models.) Tj
+/F1 12 Tf
+1 0 0 1 50 326 Tm
+(- Database: MongoDB stores users, jobs, connection requests, and messages.) Tj
+/F1 12 Tf
+1 0 0 1 50 310 Tm
+(- Authentication: JWT token stored in localStorage.) Tj
+/F1 12 Tf
+1 0 0 1 50 294 Tm
+(- Authorization: Middleware checks whether a user is logged in and whether the role is) Tj
+/F1 12 Tf
+1 0 0 1 50 278 Tm
+(   student or alumni.) Tj
+/F1 12 Tf
+1 0 0 1 50 262 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 246 Tm
+(Database Collections and Models) Tj
+/F1 12 Tf
+1 0 0 1 50 230 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 214 Tm
+(- User: Stores student or alumni details, email, password, role, bio, institution, company,) Tj
+/F1 12 Tf
+1 0 0 1 50 198 Tm
+(   and other profile data.) Tj
+/F1 12 Tf
+1 0 0 1 50 182 Tm
+(- Job: Stores job title, company, location, description, contact info, and who posted it.) Tj
+/F1 12 Tf
+1 0 0 1 50 166 Tm
+(- ConnectionRequest: Stores student id, alumni id, request message, and status as pending,) Tj
+/F1 12 Tf
+1 0 0 1 50 150 Tm
+(   accepted, or declined.) Tj
+/F1 12 Tf
+1 0 0 1 50 134 Tm
+(- Message: Stores connection id, sender, receiver, and chat text.) Tj
+/F1 12 Tf
+1 0 0 1 50 118 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 102 Tm
+(How The Flow Works) Tj
+/F1 12 Tf
+1 0 0 1 50 86 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 70 Tm
+(- A user registers as either student or alumni.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3408 >>
+stream
+BT
+/F1 12 Tf
+/F1 12 Tf
+1 0 0 1 50 790 Tm
+(- Login returns a JWT token.) Tj
+/F1 12 Tf
+1 0 0 1 50 774 Tm
+(- Protected routes use that token for validation.) Tj
+/F1 12 Tf
+1 0 0 1 50 758 Tm
+(- A student can search alumni and send a connection request.) Tj
+/F1 12 Tf
+1 0 0 1 50 742 Tm
+(- An alumni can see incoming requests and update the status.) Tj
+/F1 12 Tf
+1 0 0 1 50 726 Tm
+(- Once a request is accepted, it appears in both users' network section.) Tj
+/F1 12 Tf
+1 0 0 1 50 710 Tm
+(- Then chat becomes available between both users.) Tj
+/F1 12 Tf
+1 0 0 1 50 694 Tm
+(- Alumni can also post jobs, and students can use the job details to contact or connect.) Tj
+/F1 12 Tf
+1 0 0 1 50 678 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 662 Tm
+(Strong Points Of Your Project) Tj
+/F1 12 Tf
+1 0 0 1 50 646 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 630 Tm
+(- It solves a real academic and career networking problem.) Tj
+/F1 12 Tf
+1 0 0 1 50 614 Tm
+(- It supports two different user roles.) Tj
+/F1 12 Tf
+1 0 0 1 50 598 Tm
+(- It has role-based permissions.) Tj
+/F1 12 Tf
+1 0 0 1 50 582 Tm
+(- It uses a proper full-stack architecture.) Tj
+/F1 12 Tf
+1 0 0 1 50 566 Tm
+(- It includes CRUD operations.) Tj
+/F1 12 Tf
+1 0 0 1 50 550 Tm
+(- It includes authentication and authorization.) Tj
+/F1 12 Tf
+1 0 0 1 50 534 Tm
+(- It includes real workflow logic, not just static pages.) Tj
+/F1 12 Tf
+1 0 0 1 50 518 Tm
+(- It supports search, connection building, and messaging.) Tj
+/F1 12 Tf
+1 0 0 1 50 502 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 486 Tm
+(Limitations And Future Scope) Tj
+/F1 12 Tf
+1 0 0 1 50 470 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 454 Tm
+(- Real-time chat is not implemented yet; current chat is request-response based.) Tj
+/F1 12 Tf
+1 0 0 1 50 438 Tm
+(- No email verification or password reset.) Tj
+/F1 12 Tf
+1 0 0 1 50 422 Tm
+(- JWT is stored in localStorage, which can be improved in production.) Tj
+/F1 12 Tf
+1 0 0 1 50 406 Tm
+(- No admin panel yet.) Tj
+/F1 12 Tf
+1 0 0 1 50 390 Tm
+(- File upload or profile picture feature is not added.) Tj
+/F1 12 Tf
+1 0 0 1 50 374 Tm
+(- Job application tracking is not added.) Tj
+/F1 12 Tf
+1 0 0 1 50 358 Tm
+(- Search can be improved further with advanced filters.) Tj
+/F1 12 Tf
+1 0 0 1 50 342 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 326 Tm
+(What Teacher Can Ask) Tj
+/F1 12 Tf
+1 0 0 1 50 310 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 294 Tm
+(1. Why did you choose this project?) Tj
+/F1 12 Tf
+1 0 0 1 50 278 Tm
+(Because alumni-student interaction is very useful for mentorship and placement support, but) Tj
+/F1 12 Tf
+1 0 0 1 50 262 Tm
+(in many colleges it is unorganized. I wanted to build a practical platform that solves this.) Tj
+/F1 12 Tf
+1 0 0 1 50 246 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 230 Tm
+(2. What is the main objective of your project?) Tj
+/F1 12 Tf
+1 0 0 1 50 214 Tm
+(To create a portal where students can connect with alumni, get guidance, and explore) Tj
+/F1 12 Tf
+1 0 0 1 50 198 Tm
+(opportunities shared by alumni.) Tj
+/F1 12 Tf
+1 0 0 1 50 182 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 166 Tm
+(3. Who are the users of this system?) Tj
+/F1 12 Tf
+1 0 0 1 50 150 Tm
+(There are two users: students and alumni.) Tj
+/F1 12 Tf
+1 0 0 1 50 134 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 118 Tm
+(4. Why did you use Node.js and Express?) Tj
+/F1 12 Tf
+1 0 0 1 50 102 Tm
+(Because Node.js is efficient for web applications, and Express makes it easy to create REST) Tj
+/F1 12 Tf
+1 0 0 1 50 86 Tm
+(APIs and manage routes and middleware.) Tj
+/F1 12 Tf
+1 0 0 1 50 70 Tm
+() Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3375 >>
+stream
+BT
+/F1 12 Tf
+/F1 12 Tf
+1 0 0 1 50 790 Tm
+(5. Why did you use MongoDB?) Tj
+/F1 12 Tf
+1 0 0 1 50 774 Tm
+(MongoDB is flexible and works well for document-based data like users, jobs, messages, and) Tj
+/F1 12 Tf
+1 0 0 1 50 758 Tm
+(connection requests.) Tj
+/F1 12 Tf
+1 0 0 1 50 742 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 726 Tm
+(6. Why did you use Mongoose?) Tj
+/F1 12 Tf
+1 0 0 1 50 710 Tm
+(Mongoose helps define schemas, validate data, and manage relationships between collections) Tj
+/F1 12 Tf
+1 0 0 1 50 694 Tm
+(more easily.) Tj
+/F1 12 Tf
+1 0 0 1 50 678 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 662 Tm
+(7. Why did you use JWT?) Tj
+/F1 12 Tf
+1 0 0 1 50 646 Tm
+(JWT is used for authentication. After login, it helps verify the user on protected routes) Tj
+/F1 12 Tf
+1 0 0 1 50 630 Tm
+(without storing session data on the server.) Tj
+/F1 12 Tf
+1 0 0 1 50 614 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 598 Tm
+(8. Why did you hash passwords?) Tj
+/F1 12 Tf
+1 0 0 1 50 582 Tm
+(To improve security. Passwords should never be stored in plain text, so bcrypt is used to) Tj
+/F1 12 Tf
+1 0 0 1 50 566 Tm
+(hash them.) Tj
+/F1 12 Tf
+1 0 0 1 50 550 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 534 Tm
+(9. How do you differentiate student and alumni actions?) Tj
+/F1 12 Tf
+1 0 0 1 50 518 Tm
+(By using the role field and middleware. For example, only alumni can post jobs, and only) Tj
+/F1 12 Tf
+1 0 0 1 50 502 Tm
+(students can send connection requests.) Tj
+/F1 12 Tf
+1 0 0 1 50 486 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 470 Tm
+(10. What is role-based access control in your project?) Tj
+/F1 12 Tf
+1 0 0 1 50 454 Tm
+(It means different users have different permissions based on role. This is enforced using) Tj
+/F1 12 Tf
+1 0 0 1 50 438 Tm
+(middleware on the backend.) Tj
+/F1 12 Tf
+1 0 0 1 50 422 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 406 Tm
+(11. How is chat controlled?) Tj
+/F1 12 Tf
+1 0 0 1 50 390 Tm
+(Users can chat only if there is an accepted connection request between them.) Tj
+/F1 12 Tf
+1 0 0 1 50 374 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 358 Tm
+(12. What happens when a student sends a request?) Tj
+/F1 12 Tf
+1 0 0 1 50 342 Tm
+(A connection request is stored with status pending. Alumni can later accept or decline it.) Tj
+/F1 12 Tf
+1 0 0 1 50 326 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 310 Tm
+(13. What happens after a request is accepted?) Tj
+/F1 12 Tf
+1 0 0 1 50 294 Tm
+(The connection appears in both users' network section, and chat becomes available.) Tj
+/F1 12 Tf
+1 0 0 1 50 278 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 262 Tm
+(14. How does job posting work?) Tj
+/F1 12 Tf
+1 0 0 1 50 246 Tm
+(Only alumni can access the job posting API. They submit job details, which are saved in the) Tj
+/F1 12 Tf
+1 0 0 1 50 230 Tm
+(Job collection.) Tj
+/F1 12 Tf
+1 0 0 1 50 214 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 198 Tm
+(15. What are the API routes in your project?) Tj
+/F1 12 Tf
+1 0 0 1 50 182 Tm
+(Auth routes, user routes, job routes, connection routes, and message routes.) Tj
+/F1 12 Tf
+1 0 0 1 50 166 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 150 Tm
+(16. What is middleware in Express?) Tj
+/F1 12 Tf
+1 0 0 1 50 134 Tm
+(Middleware is a function that runs before the final request handler. In this project it is) Tj
+/F1 12 Tf
+1 0 0 1 50 118 Tm
+(used for token verification and role checking.) Tj
+/F1 12 Tf
+1 0 0 1 50 102 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 86 Tm
+(17. What are the collections in MongoDB for this project?) Tj
+/F1 12 Tf
+1 0 0 1 50 70 Tm
+(Users, Jobs, ConnectionRequests, and Messages.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3565 >>
+stream
+BT
+/F1 12 Tf
+/F1 12 Tf
+1 0 0 1 50 790 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 774 Tm
+(18. What kind of relationships are used?) Tj
+/F1 12 Tf
+1 0 0 1 50 758 Tm
+(Reference-based relationships using ObjectId. For example, jobs reference the user who) Tj
+/F1 12 Tf
+1 0 0 1 50 742 Tm
+(posted them, and messages reference a connection and sender or receiver.) Tj
+/F1 12 Tf
+1 0 0 1 50 726 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 710 Tm
+(19. What validations did you use?) Tj
+/F1 12 Tf
+1 0 0 1 50 694 Tm
+(Required fields, password length, unique email, allowed request status, role checking, and) Tj
+/F1 12 Tf
+1 0 0 1 50 678 Tm
+(non-empty messages.) Tj
+/F1 12 Tf
+1 0 0 1 50 662 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 646 Tm
+(20. How is the frontend connected to backend?) Tj
+/F1 12 Tf
+1 0 0 1 50 630 Tm
+(Using JavaScript fetch API calls to backend endpoints like /api/auth, /api/jobs,) Tj
+/F1 12 Tf
+1 0 0 1 50 614 Tm
+(/api/connections, and /api/messages.) Tj
+/F1 12 Tf
+1 0 0 1 50 598 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 582 Tm
+(21. Where is the token stored?) Tj
+/F1 12 Tf
+1 0 0 1 50 566 Tm
+(In localStorage.) Tj
+/F1 12 Tf
+1 0 0 1 50 550 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 534 Tm
+(22. What are the drawbacks of storing token in localStorage?) Tj
+/F1 12 Tf
+1 0 0 1 50 518 Tm
+(It can be vulnerable to XSS if the app is not properly secured. In production, HTTP-only) Tj
+/F1 12 Tf
+1 0 0 1 50 502 Tm
+(cookies are often safer.) Tj
+/F1 12 Tf
+1 0 0 1 50 486 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 470 Tm
+(23. What if an unauthorized user tries to access protected routes?) Tj
+/F1 12 Tf
+1 0 0 1 50 454 Tm
+(The middleware checks for a valid Bearer token and returns an unauthorized error if it is) Tj
+/F1 12 Tf
+1 0 0 1 50 438 Tm
+(missing or invalid.) Tj
+/F1 12 Tf
+1 0 0 1 50 422 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 406 Tm
+(24. What if a student tries to post a job?) Tj
+/F1 12 Tf
+1 0 0 1 50 390 Tm
+(The alumniOnly middleware blocks the action and returns a forbidden response.) Tj
+/F1 12 Tf
+1 0 0 1 50 374 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 358 Tm
+(25. What if an alumni tries to send a connection request?) Tj
+/F1 12 Tf
+1 0 0 1 50 342 Tm
+(The studentOnly middleware prevents that action.) Tj
+/F1 12 Tf
+1 0 0 1 50 326 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 310 Tm
+(26. What makes your project different from a simple CRUD app?) Tj
+/F1 12 Tf
+1 0 0 1 50 294 Tm
+(It is workflow-based. It includes role-based logic, connection approval, networking, and) Tj
+/F1 12 Tf
+1 0 0 1 50 278 Tm
+(controlled messaging, not just add, view, update, and delete operations.) Tj
+/F1 12 Tf
+1 0 0 1 50 262 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 246 Tm
+(27. What future improvements can be added?) Tj
+/F1 12 Tf
+1 0 0 1 50 230 Tm
+(Real-time chat with Socket.IO, notifications, admin panel, profile image upload, email) Tj
+/F1 12 Tf
+1 0 0 1 50 214 Tm
+(verification, resume upload, and better search filters.) Tj
+/F1 12 Tf
+1 0 0 1 50 198 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 182 Tm
+(If Teacher Asks For Internal Working) Tj
+/F1 12 Tf
+1 0 0 1 50 166 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 150 Tm
+(When a user registers, data is stored in MongoDB. The password is hashed using bcrypt before) Tj
+/F1 12 Tf
+1 0 0 1 50 134 Tm
+(saving. During login, credentials are checked and JWT is generated. The frontend stores the) Tj
+/F1 12 Tf
+1 0 0 1 50 118 Tm
+(token and sends it in the Authorization header for protected API requests. The backend) Tj
+/F1 12 Tf
+1 0 0 1 50 102 Tm
+(middleware verifies this token and identifies the logged-in user. Based on role, the system) Tj
+/F1 12 Tf
+1 0 0 1 50 86 Tm
+(allows or blocks certain actions like posting jobs or sending requests.) Tj
+/F1 12 Tf
+1 0 0 1 50 70 Tm
+() Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1737 >>
+stream
+BT
+/F1 12 Tf
+/F1 12 Tf
+1 0 0 1 50 790 Tm
+(Short Viva Answer For "Explain Your Project") Tj
+/F1 12 Tf
+1 0 0 1 50 774 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 758 Tm
+(My project is Alumni Connect Portal, a full-stack web application made for connecting) Tj
+/F1 12 Tf
+1 0 0 1 50 742 Tm
+(students with alumni. It has two roles: student and alumni. Students can register, browse) Tj
+/F1 12 Tf
+1 0 0 1 50 726 Tm
+(alumni profiles, send connection requests, and explore jobs posted by alumni. Alumni can) Tj
+/F1 12 Tf
+1 0 0 1 50 710 Tm
+(accept or decline requests, post job opportunities, and chat with students after connection) Tj
+/F1 12 Tf
+1 0 0 1 50 694 Tm
+(is accepted. I built the frontend using HTML, CSS, and JavaScript, and the backend using) Tj
+/F1 12 Tf
+1 0 0 1 50 678 Tm
+(Node.js, Express.js, and MongoDB. For security, I used JWT authentication and bcrypt) Tj
+/F1 12 Tf
+1 0 0 1 50 662 Tm
+(password hashing. The project helps create a structured digital network between students and) Tj
+/F1 12 Tf
+1 0 0 1 50 646 Tm
+(alumni for mentorship and career support.) Tj
+/F1 12 Tf
+1 0 0 1 50 630 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 614 Tm
+(How To Impress Teacher) Tj
+/F1 12 Tf
+1 0 0 1 50 598 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 582 Tm
+(Use terms like role-based authentication, REST API, protected routes, schema validation,) Tj
+/F1 12 Tf
+1 0 0 1 50 566 Tm
+(full-stack architecture, real-world problem statement, and scalable future scope.) Tj
+/F1 12 Tf
+1 0 0 1 50 550 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 534 Tm
+(Final Tip) Tj
+/F1 12 Tf
+1 0 0 1 50 518 Tm
+() Tj
+/F1 12 Tf
+1 0 0 1 50 502 Tm
+(Do not try to explain every file. Explain in this order: problem, solution, users, features,) Tj
+/F1 12 Tf
+1 0 0 1 50 486 Tm
+(tech stack, working, security, and future scope.) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R] /Count 6 >>
+endobj
+15 0 obj
+<< /Type /Catalog /Pages 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000003876 00000 n 
+0000004002 00000 n 
+0000007828 00000 n 
+0000007954 00000 n 
+0000011414 00000 n 
+0000011540 00000 n 
+0000014967 00000 n 
+0000015093 00000 n 
+0000018711 00000 n 
+0000018839 00000 n 
+0000020629 00000 n 
+0000020757 00000 n 
+0000020847 00000 n 
+trailer
+<< /Size 16 /Root 15 0 R >>
+startxref
+20898
+%%EOF

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chat | Alumni Connect</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body data-page="network">
+    <nav id="navbar"></nav>
+
+    <main class="container section">
+      <div class="page-actions">
+        <a class="btn btn-secondary" href="./network.html">Back to Network</a>
+      </div>
+
+      <section class="chat-layout">
+        <aside class="chat-sidebar">
+          <p class="eyebrow">Conversation</p>
+          <h1 id="chatTitle">Loading chat...</h1>
+          <p id="chatSubtitle" class="muted-text"></p>
+          <div id="chatConnectionMeta" class="details-list top-gap"></div>
+        </aside>
+
+        <section class="chat-panel">
+          <div id="chatMessages" class="chat-messages"></div>
+          <form id="chatForm" class="chat-form">
+            <textarea
+              id="chatInput"
+              rows="3"
+              placeholder="Write your message here"
+              required
+            ></textarea>
+            <button class="btn btn-primary" type="submit">Send Message</button>
+          </form>
+        </section>
+      </section>
+    </main>
+
+    <script src="./js/config.js"></script>
+    <script src="./js/common.js"></script>
+    <script src="./js/chat.js"></script>
+  </body>
+</html>

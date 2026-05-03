@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Register | Alumni Connect</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body data-page="register">
+    <nav id="navbar"></nav>
+
+    <main class="container section">
+      <section class="auth-card wide-card">
+        <h1>Create Account</h1>
+        <p>Register as an alumni or student to join the Alumni Connect network.</p>
+        <form id="registerForm" class="form">
+          <label>
+            Name
+            <input type="text" id="name" placeholder="Enter your full name" required />
+          </label>
+          <label>
+            Email
+            <input type="email" id="email" placeholder="Enter your email" required />
+          </label>
+          <label>
+            Password
+            <input
+              type="password"
+              id="password"
+              placeholder="Minimum 6 characters"
+              minlength="6"
+              required
+            />
+          </label>
+          <label>
+            Role
+            <select id="role" required>
+              <option value="">Select your role</option>
+              <option value="alumni">Alumni</option>
+              <option value="student">Student</option>
+            </select>
+          </label>
+          <label>
+            Course / Branch
+            <input type="text" id="course" placeholder="B.Tech CSE" />
+          </label>
+          <label>
+            College / School Name
+            <input
+              type="text"
+              id="institution"
+              placeholder="Enter your college or school name"
+            />
+          </label>
+          <label>
+            Company / Organization
+            <input type="text" id="company" placeholder="Current company or college" />
+          </label>
+          <label>
+            Graduation Year
+            <input type="text" id="graduationYear" placeholder="2022" />
+          </label>
+          <label>
+            Location
+            <input type="text" id="location" placeholder="Pune, Mumbai, Remote" />
+          </label>
+          <label>
+            Short Bio
+            <textarea
+              id="bio"
+              rows="4"
+              placeholder="Tell others about your background and goals"
+            ></textarea>
+          </label>
+          <button class="btn btn-primary" type="submit">Register</button>
+          <p class="form-link">
+            Already registered? <a href="./login.html">Login</a>
+          </p>
+          <p id="message" class="form-message"></p>
+        </form>
+      </section>
+    </main>
+
+    <script src="./js/config.js"></script>
+    <script src="./js/common.js"></script>
+    <script src="./js/register.js"></script>
+  </body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alumni Network | Alumni Connect</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body data-page="alumni">
+    <nav id="navbar"></nav>
+
+    <main class="container section">
+      <section class="section-heading stack-mobile">
+        <div>
+          <p class="eyebrow">Alumni Network</p>
+          <h1>Connect with Alumni</h1>
+          <p class="muted-text">
+            Explore alumni profiles, open their full profile, learn about their
+            journey, and send a connection request.
+          </p>
+        </div>
+        <div class="search-panel">
+          <div class="search-box">
+            <input
+              id="institutionInput"
+              type="text"
+              placeholder="Enter your college or school name"
+            />
+          </div>
+          <div class="search-box">
+            <input
+              id="alumniSearchInput"
+              type="text"
+              placeholder="Search by name, company, course, or location"
+            />
+          </div>
+        </div>
+      </section>
+
+      <div id="institutionHint" class="notice hidden"></div>
+
+      <section id="alumniContainer" class="job-grid"></section>
+      <p id="alumniMessage" class="empty-state hidden"></p>
+    </main>
+
+    <script src="./js/config.js"></script>
+    <script src="./js/common.js"></script>
+    <script src="./js/alumni.js"></script>
+  </body>
+</html>
