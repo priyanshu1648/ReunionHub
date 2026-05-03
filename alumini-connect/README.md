@@ -5,10 +5,10 @@ A simple full-stack web app where students can connect with alumni, send network
 
 ## Contributors:
 
-Umesh Kumar
-Riya Garjola
-Priyanshu Birkhani
-Yogesh Pandey
+- Priyanshu Birkhani
+- Riya Garjola
+- Sagar Bhatiya
+- Manav Sati
 
 ## Tech Stack
 
